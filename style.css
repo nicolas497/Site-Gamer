@@ -1,0 +1,24 @@
+.estica{
+    height: 800px;
+}
+.estica2{
+    height: 800px;
+}
+
+#titulo{
+    font-family: 'Anton', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    flex-wrap: wrap
+}
+.card-bodi{
+    height: 800px;
+}
+.separacao{
+    margin-bottom: 30px;
+}
+.linha-card{
+    margin-bottom: 100px;
+}
